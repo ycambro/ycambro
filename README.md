@@ -1,19 +1,29 @@
 ## Hi there 👋
-I'm Yurgen Cambronero and I'm currently pursuing Computing Engineering at Tecnológico de Costa Rica.
+I'm Yurgen Cambronero a Computing Engineering student at Tecnológico de Costa Rica, passionate about software development, quality assurance, and data management. I'm also eager to expand my knowledge in mobile development.
 
 ## 🌱 University Projects
-Here are some of my projects and works made in the University so check it out.
+Here are some the projects I have worked on during my studies. Feel free to check them out!
 
+### 🚀 Development Projects
+- [E-Food Commerce](https://github.com/camiulatech/E-Food)
+- [Java & Database-Centric Web App](https://github.com/yosgarcia/Proyecto1-BDII)
+- [DB Replication & Tableu](https://github.com/ycambro/Proyecto2BD)
+- [PySpark Project](https://github.com/yosgarcia/Proyecto3BD2/tree/main)
 
+### 🛠 Quality Assurance Projects
+- [QA Testing](https://github.com/ycambro/BookShoppingCart-Mvc) – Full quality assurance process including test plans, unit testing, and bug reports.  
+- **QA Labs with Angular**  
+  - [Karma + Jasmine (Lab 1)](https://github.com/ycambro/my-app-independiente)  
+  - [Karma + Jasmine (Lab 2)](https://github.com/ycambro/ejemplo-angular)  
+  - [TS-Mockito (Lab 1)](https://github.com/ycambro/lab-qa2)  
+  - [TS-Mockito (Lab 2)](https://github.com/ycambro/lab-qa2-independiente)  
+  - [Cypress](https://github.com/ycambro/lab-qa3)  
+- [QA Lab - Selenium](https://github.com/ycambro/lab-qa4)  
 
-## 📫 How to reach me:
+🔍 You can explore all my projects in the [Repositories](https://github.com/ycambro?tab=repositories) section.
 
-# Links to the example headings above
-Link to the sample section: [Link Text](#hi-there).
-
-Link to the helpful section: [Link Text](#university-projects).
-
-Link to the first non-unique section: [Link Text](#how-to-reach-me).
+## 📫 Get in touch
+- Telegram: @ycambro
 
 <!--
 **ycambro/ycambro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
